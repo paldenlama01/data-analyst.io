@@ -1,1 +1,6 @@
-
+title: Palden Lama
+description:  Portfolio showcasing data analysis, visualization, and insights
+baseurl: "" # Leave empty if deploying on username.github.io
+#url: "https://yourusername.github.io"
+#show_downoads: true
+theme: jekyll-theme-minimal
