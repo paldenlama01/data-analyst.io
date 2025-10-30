@@ -1,4 +1,4 @@
-# Data Analyst
+# IT Support
 
 ### Education
 Information Systems, BSc
